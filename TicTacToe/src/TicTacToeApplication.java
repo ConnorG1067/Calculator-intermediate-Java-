@@ -8,7 +8,7 @@ import javax.swing.*;
     
 /**Runs TicTacToe Application
  * 2021-02-24
- * Created by: Connor Gomes
+ * Created by: Connor
  * ICS4U
  * 
  * Added Features
